@@ -67,6 +67,7 @@ For more information about the Webi installer see [its homepage](https://webinst
 - community-maintained repositories in various Linux distros;
 - OS-agnostic package managers such as [Homebrew](#homebrew), [Conda](#conda), [Spack](#spack), [Webi](#webi); and
 - our [releases page][] as precompiled binaries.
+- Available on arch as `github-cli`
 
 For more information, see [Linux & BSD installation](./docs/install_linux.md).
 
